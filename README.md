@@ -4,12 +4,12 @@ Simple GUI for Legendary with only the important functions so you won't have to 
 
 # HOW TO USE
 
-Download legendary.exe from https://github.com/derrod/legendary/releases/download/0.20.34/legendary.exe
+Download legendary.exe from [here](https://github.com/derrod/legendary/releases/download/0.20.34/legendary.exe)
 and place it at ``%USERPROFILE%``
 
 Then run legendary-UI.exe
 
 # INCOMPLETE
 
-This allows you to run commands that don't yet have buttons, refer to https://github.com/derrod/legendary/releases/download/0.20.34/legendary.exe
+This allows you to run commands that don't yet have buttons, refer to https://github.com/derrod/legendary?tab=readme-ov-file#usage
 for a full list of commands.
