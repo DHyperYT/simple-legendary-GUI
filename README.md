@@ -13,3 +13,5 @@ Then run legendary-UI.exe from Releases
 
 This includes a feature that allows you to run commands that don't yet have buttons, refer to https://github.com/derrod/legendary?tab=readme-ov-file#usage
 for a full list of commands.
+
+# PULL REQUESTS ARE ACCEPTED!!! Add other functions that you think should be there but aren't 
