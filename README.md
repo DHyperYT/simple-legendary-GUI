@@ -1,5 +1,5 @@
 # Simple Legendary UI
-Simple GUI for Legendary so you won't have to use the command line.
+Simple GUI for Legendary with only the important functions so you won't have to use the command line.
 
 
 # HOW TO USE
@@ -7,4 +7,9 @@ Simple GUI for Legendary so you won't have to use the command line.
 Download legendary.exe from https://github.com/derrod/legendary/releases/download/0.20.34/legendary.exe
 and place it at ``%USERPROFILE%``
 
-Then run this .exe
+Then run legendary-UI.exe
+
+# INCOMPLETE
+
+This allows you to run commands that don't yet have buttons, refer to https://github.com/derrod/legendary/releases/download/0.20.34/legendary.exe
+for a full list of commands.
