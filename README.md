@@ -1,4 +1,4 @@
-# Simple Legendary UI
+# Simple Legendary GUI
 Simple GUI for Legendary with only the important functions so you won't have to use the command line.
 
 
