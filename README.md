@@ -1,5 +1,5 @@
 # Simple Legendary GUI
-Simple GUI for Legendary with only the important functions so you won't have to use the command line.
+Simple GUI for Legendary with only the important functions so you won't have to use the command line. Also the first python program I've released.
 
 
 # HOW TO USE
